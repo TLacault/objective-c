@@ -1,13 +1,9 @@
 .vscode
-NormEZ.rb
 *.gcno
 *.gcda
 *.o
 src/
-vgcore.*
-*.h
 player.c
-ex0*
 *zip
 
 # Class diagram
