@@ -2,8 +2,6 @@
 *.gcno
 *.gcda
 *.o
-src/
-player.c
 *zip
 
 # Class diagram
